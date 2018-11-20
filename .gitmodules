@@ -1,4 +1,4 @@
 [submodule "libbiomeval"]
 	path = libbiomeval
-	url = ../libbiomeval
+	url = https://github.com/usnistgov/libbiomeval
 	ignore = untracked
