@@ -1,0 +1,6 @@
+# Compilation
+*.a
+*.o
+*.so
+*.dylib
+rstool
