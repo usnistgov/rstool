@@ -1,0 +1,4 @@
+[submodule "libbiomeval"]
+	path = libbiomeval
+	url = ../libbiomeval
+	ignore = untracked
