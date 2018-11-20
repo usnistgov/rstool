@@ -1,4 +1,4 @@
 [submodule "libbiomeval"]
 	path = libbiomeval
-	url = ../libbiomeval
+	url = http://gypsy.nist.gov/wsalamon/libbiomeval
 	ignore = untracked
